@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="nav-container">
+  <view class="logo">logo</view>
+  <view class="nav-toggler" bindtap="showMenu">
+    <view class="nav-toggler-icon"></view>
+  </view>
+  <view class="menu"></view>
+</view>
